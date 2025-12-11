@@ -34,7 +34,7 @@ fi;
 #fin d'automatisation
 sleep  9; 
 reset
-echo "\e[1;35m PUSH GAME \e[0m";
+echo "\e[1;35m MELLIMELLETTRE GAME \e[0m";
 #Regles du jeux
 echo "Dans ce jeux tu doit retrouver le bon mot grace au lettres que l'on te propose!";
 echo "Choisis ta difficulté: <<a=  easy>>, <<b= médium>> ou c= hard!";  
