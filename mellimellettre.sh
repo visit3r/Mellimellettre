@@ -1,4 +1,4 @@
-x#!/bin/sh
+#!/bin/sh
 #Filename: mellimellettre.sh
 #Release 1 au 27-06-2024
 #Auditer au moins avant le 27-06-2024
